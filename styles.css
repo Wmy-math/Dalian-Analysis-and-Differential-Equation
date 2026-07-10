@@ -333,4 +333,203 @@
                    font-size:18px;
                
                }
+/* ===============================
+   Community section
+   =============================== */
 
+
+       .community {
+                  
+                      padding:100px 0;
+                  
+                      background:white;
+                  
+                  }
+                  
+                  
+   .community .section-label {
+                  
+                      color:#ffcc00;
+                  
+                      font-size:24px;
+                  
+                      margin-bottom:30px;
+                  
+                  }
+                  
+                  
+      .community h2 {
+                  
+                      font-size:55px;
+                  
+                      line-height:1.1;
+                  
+                      color:#003366;
+                  
+                      max-width:600px;
+                  
+                  }
+                  
+                  
+       .community-intro {
+                  
+                      margin-top:25px;
+                  
+                      font-size:22px;
+                  
+                      max-width:900px;
+                  
+                      line-height:1.6;
+                  
+                  }
+                  
+                  
+                  
+       .community-grid {
+                  
+                      display:flex;
+                  
+                      gap:40px;
+                  
+                      margin-top:70px;
+                  
+                  }
+                  
+                  
+                  
+      .community-card {
+                  
+                  
+                      flex:1;
+                  
+                      background:#f5f7fa;
+                  
+                      padding:40px;
+                  
+                      border-radius:20px;
+                  
+                  }
+                  
+                  
+                  
+      .community-card h3 {
+                  
+                      color:#003366;
+                  
+                      font-size:30px;
+                  
+                      margin-bottom:25px;
+                  
+                  }
+                  
+                  
+                  
+       .community-card ul {
+                  
+                      list-style:none;
+                  
+                  }
+                  
+                  
+                  
+      .community-card li {
+                  
+                      font-size:20px;
+                  
+                      margin:15px 0;
+                  
+                  }
+/* ===============================
+   People section
+   =============================== */
+
+
+          .people {
+                  
+                      padding:100px 0;
+                  
+                      background:#f8fafc;
+                  
+                  }
+                  
+                  
+                  
+         .people h2 {
+                  
+                      font-size:55px;
+                  
+                      color:#003366;
+                  
+                  }
+                  
+                  
+                  
+         .people-intro {
+                  
+                      font-size:22px;
+                  
+                      margin:20px 0 50px;
+                  
+                  }
+                  
+                  
+                  
+         .people-grid {
+                  
+                  
+                      display:grid;
+                  
+                      grid-template-columns:repeat(3,1fr);
+                  
+                      gap:30px;
+                  
+                  }
+                  
+                  
+                  
+         .person-card {
+                  
+                  
+                      background:white;
+                  
+                      padding:30px;
+                  
+                      border-radius:18px;
+                  
+                      border:1px solid #ddd;
+                  
+                  
+                  }
+                  
+                  
+                  
+         .person-card h3 {
+                  
+                  
+                      color:#003366;
+                  
+                      font-size:26px;
+                  
+                  
+                  }
+                  
+                  
+                  
+       .person-role {
+                  
+                  
+                      color:#777;
+                  
+                      margin:10px 0;
+                  
+                  
+                  }
+                  
+                  
+                  
+      .person-topic {
+                  
+                  
+                      line-height:1.6;
+                  
+                  }
