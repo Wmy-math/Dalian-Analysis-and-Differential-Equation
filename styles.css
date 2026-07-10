@@ -463,6 +463,37 @@
                    color:#003366;
                
                }
+   .eyebrow.dark {
+               
+                   color:#003366;
+               
+                   font-size:42px;
+               
+                   font-weight:600;
+               
+                   margin-bottom:50px;
+               
+               }
+               
+               
+   .eyebrow.dark span {
+               
+                   display:none;
+               
+               }
+      .community h2 {
+                  
+                      font-size:38px;
+                  
+                      line-height:1.2;
+                  
+                      color:#003366;
+                  
+                      max-width:550px;
+                  
+                      margin-bottom:25px;
+                  
+                  }
 /* ===============================
    People section
    =============================== */
